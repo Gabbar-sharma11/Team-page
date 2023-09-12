@@ -11,13 +11,14 @@ main{
     text-align: left;
 }
 .team{
+    margin: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 30px;
 }
 .member{
-    margin: 10px;
+    margin: 20px;
     padding: 20px;
     border: 1px solid #967d7d;
     width: 250px;
